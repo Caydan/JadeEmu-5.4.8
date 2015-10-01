@@ -1433,7 +1433,7 @@ void AddPandariaScripts()
 //AddSC_townlong_steppes();
 //AddSC_vale_of_eternal_blossoms();
 //AddSC_valley_of_the_four_winds();
-    AddSC_zone_wandering_island();
+// AddSC_zone_wandering_island();
 #endif
 }
 

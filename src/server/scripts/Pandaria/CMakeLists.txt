@@ -12,10 +12,6 @@
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
   Pandaria/pandaria/boss_ordos.cpp
-  Pandaria/WanderingIsland/WanderingIsland_West.cpp
-  Pandaria/WanderingIsland/WanderingIsland_East.cpp
-  Pandaria/WanderingIsland/WanderingIsland_South.cpp
-  Pandaria/WanderingIsland/WanderingIsland_North.cpp
   Pandaria/zone_dread_wastes.cpp
   Pandaria/zone_isle_of_giants.cpp
   Pandaria/zone_isle_of_thunder.cpp
