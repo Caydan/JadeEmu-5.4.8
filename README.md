@@ -22,7 +22,7 @@ For further information on the SkyFire project, please visit our project website
 **MoP 5.4.8 Build 18414**
 
 ## Build Status
-# [![Build Status](https://travis-ci.org/ProjectSkyfire/SkyFire.548.png)](https://travis-ci.org/ProjectSkyfire/SkyFire.548)
+[![Build Status](https://travis-ci.org/sayghteight/JadeEmu-5.4.8.svg)](https://travis-ci.org/sayghteight/JadeEmu-5.4.8)
 
 ## Requirements
 + Platform: Linux, Windows or Mac
