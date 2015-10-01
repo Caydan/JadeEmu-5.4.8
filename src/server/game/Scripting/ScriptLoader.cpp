@@ -665,7 +665,6 @@ void AddSC_event_childrens_week();
 
 // Pandaria
 void AddSC_boss_ordos();
-void AddSC_boss_xuen_alpha();
 //void AddSC_dread_wastes();
 //void AddSC_isle_of_giants();
 //void AddSC_isle_of_thunder();
@@ -1406,7 +1405,6 @@ void AddPandariaScripts()
 {
 #ifdef SCRIPTS
     AddSC_boss_ordos();
-    AddSC_boss_xuen_alpha();
     //AddSC_dread_wastes();
     //AddSC_isle_of_giants();
     //AddSC_isle_of_thunder();
