@@ -1474,9 +1474,6 @@ void AddBattlegroundScripts()
 void AddCustomScripts()
 {
 #ifdef SCRIPTS
-
-    /* Promoción de NPC. */
-    AddSC_npc_promo();
     
 #endif
 }
